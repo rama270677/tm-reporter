@@ -101,6 +101,8 @@ esMassTypes = (
     tmEventSetup.InvariantMass,
     tmEventSetup.TransverseMass,
     tmEventSetup.InvariantMassOvRm,
+    tmEventSetup.InvariantMassOvRm,
+    tmEventSetup.InvariantMassThreeObj,
 )
 
 esMuonGroup = "Muon"
@@ -115,6 +117,7 @@ esCorrelationGroup = "Correlation"
 esMassGroup = "Mass"
 esExternalGroup = "External"
 esSignalGroup = "Signal"
+#esMassThreeObjGroup = "Mass Three Objects"
 
 esTriggerGroups = (
     esMuonGroup,
@@ -129,6 +132,7 @@ esTriggerGroups = (
     esMassGroup,
     esExternalGroup,
     esSignalGroup,
+    #esMassThreeObjGroup,
 )
 
 esCutType = {

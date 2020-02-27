@@ -4,7 +4,7 @@ long_description = open('README.md').read()
 
 setup(
     name='tm-reporter',
-    version='2.7.3',
+    version='3.0.0',
     url="https://github.com/cms-l1-globaltrigger/tm-reporter",
     author="Bernhard Arnold",
     author_email="bernhard.arnold@cern.ch",
