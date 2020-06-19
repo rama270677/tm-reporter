@@ -99,6 +99,7 @@ esCorrelationTypes = (
 
 esMassTypes = (
     tmEventSetup.InvariantMass,
+    tmEventSetup.InvariantMassUpt,
     tmEventSetup.TransverseMass,
     tmEventSetup.InvariantMassOvRm,
 )
