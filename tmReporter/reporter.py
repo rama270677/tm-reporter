@@ -394,7 +394,6 @@ class Reporter(object):
                 add_algorithm(esCrossGroup, algorithm)
             else:
                 condition = algorithm.conditions[0]
-                print ("=== condition.type: ", condition.type)
                 if condition.type in esMuonTypes:
                     add_algorithm(esMuonGroup, algorithm)
                 elif condition.type in esEgammaTypes:
