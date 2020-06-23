@@ -103,6 +103,7 @@ esMassTypes = (
     tmEventSetup.TransverseMass,
     tmEventSetup.InvariantMassOvRm,
     tmEventSetup.InvariantMassThreeObj,
+    tmEventSetup.InvariantMassDivDeltaR,
 )
 
 esMuonGroup = "Muon"
